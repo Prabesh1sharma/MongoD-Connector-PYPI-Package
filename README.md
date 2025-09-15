@@ -1,4 +1,4 @@
-# MongoD-Connector-PYPI-Package
+# MongoDB-Connector-PYPI-Package
 
 ## Overview
 
